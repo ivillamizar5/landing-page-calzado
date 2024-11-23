@@ -73,8 +73,12 @@ git add .
 git status
 git commit -m " estructurando la pagina fomrularios"
 
-
-
+## Conflictos     en la mezcla:
+dirigirse a pull requests   
+new pull request   
+Seleccionar la rama desarrollo  
+crear pull request   
+Se agrega el comentario realizado  
 
 
 
