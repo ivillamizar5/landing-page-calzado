@@ -53,7 +53,7 @@ Crea la pagina incial donde muestre las cuatro modelos de zapatos con imágenes 
 		
 		
 ## Parte 4: Resolución de Conflictos y Ajustes Finales   
-	No se tuvo conflictos ya que solo se uso en la rama ivan los estilos 
+	Se añaden ambos cambios 
 
 
 
