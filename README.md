@@ -13,3 +13,4 @@ Crea la pagina incial donde muestre las cuatro modelos de zapatos con imágenes 
 
 
 1- se empieza a construir la pagina formularios, para respaldar la primera sección
+2- se agraga el formulario de registro y los estilos correspondientes el hash = 6dc334e
