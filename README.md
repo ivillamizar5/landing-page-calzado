@@ -58,3 +58,28 @@ Crea la pagina incial donde muestre las cuatro modelos de zapatos con imágenes 
 
 
 
+## PARTE 1, en la rama Oscar
+
+creacion de la rama 
+git branch oscar
+git checkout oscar
+creacion de formulario.html
+
+
+## parte 2
+
+estructura inicial del proyecto
+git add .
+git status
+git commit -m " estructurando la pagina fomrularios"
+
+
+
+
+
+
+
+
+
+
+
